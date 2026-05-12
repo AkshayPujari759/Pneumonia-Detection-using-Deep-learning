@@ -10,7 +10,10 @@ The application features a modern, interactive dashboard with an animated 3D DNA
 - **Modern User Interface**: A dynamic glassmorphism dashboard built with TailwindCSS.
 - **Interactive 3D Background**: Features a rotating, theme-responsive 3D DNA strand using Three.js.
 - **Dark/Light Mode**: Fully responsive theme toggling built in.
-
+##Accuracy
+   -Training Accuracy : 92%
+   -Validation Accuracy : 90%
+   -MobileNetV2 fine-tuned model used for prediction
 ## Tech Stack
 - **Backend**: Python, Flask, Flask-CORS
 - **Machine Learning**: TensorFlow / Keras, NumPy, Pillow
@@ -34,8 +37,8 @@ Pneumonia_Project/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
-cd YOUR-REPO-NAME
+git clone
+https://github.com/AkshayPujari759/Pneumonia-Detection-using-Deep_learning.git
 ```
 
 ### 2. Install Dependencies
